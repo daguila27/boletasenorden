@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe63ac56-f30c-4161-b1ae-5c7d360e25d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dYfwFu7PfkOThEIHtAdwAiCjXQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react/proyecto" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dagui\git\proyectobackend" />
+      <recent name="C:\Users\dagui\git\proyectobackend/bin" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe63ac56-f30c-4161-b1ae-5c7d360e25d8" name="Default Changelist" comment="" />
+      <created>1592607183248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592607183248</updated>
+      <workItem from="1592607184954" duration="12696000" />
+      <workItem from="1592851459675" duration="2577000" />
+      <workItem from="1592854396253" duration="3601000" />
+      <workItem from="1592887881081" duration="2398000" />
+      <workItem from="1593034158930" duration="99000" />
+      <workItem from="1593034268820" duration="10070000" />
+      <workItem from="1593205072485" duration="445000" />
+      <workItem from="1594093052250" duration="4211000" />
+      <workItem from="1594206291402" duration="23000" />
+      <workItem from="1594265996523" duration="598000" />
+      <workItem from="1594651116085" duration="21925000" />
+      <workItem from="1594813315072" duration="12373000" />
+      <workItem from="1594913464218" duration="4089000" />
+      <workItem from="1595082290012" duration="6938000" />
+      <workItem from="1595271524728" duration="1850000" />
+      <workItem from="1595451277390" duration="5159000" />
+      <workItem from="1595515397980" duration="6877000" />
+      <workItem from="1595786611188" duration="416000" />
+      <workItem from="1596154677420" duration="4579000" />
+      <workItem from="1596218402104" duration="1323000" />
+      <workItem from="1596739909120" duration="6326000" />
+      <workItem from="1596821426046" duration="8449000" />
+      <workItem from="1597007719109" duration="594000" />
+      <workItem from="1597093619343" duration="598000" />
+      <workItem from="1597372242036" duration="597000" />
+      <workItem from="1597521366324" duration="2498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1595515424711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595515424711" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1594857036895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594857036895" />
+    <state x="345" y="52" width="670" height="158" key="search.everywhere.popup" timestamp="1596752096807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="345" y="52" width="670" height="158" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596752096807" />
+  </component>
+</project>
